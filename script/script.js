@@ -61,7 +61,6 @@ filters.forEach(filter => {
     });
 });
 
-
 let categorySelect = document.getElementById("categorySelect");
 let vehiculecontainer = document.querySelector(".vehiculecontainer");
 
